@@ -1,0 +1,4 @@
+Good morning, Good afternoon & Good evening depending upon your time zone. My name is Dusmanta Parida from Delhi, I am Microsoft Certified Professional, Microsoft Certified Azure Administration Associate also ITIL Certified. With over 10+years of experience as a SQL DBA & having experience on Installation, Configuration, Designing and implementing the high availability features Such as SQL Server Clustering, Always-on Availability Groups, Log Shipping, Mirroring, Replication, disater recovery & Troubleshooting. Also Designing backup and recovery solution & having experience on performance tuning.
+
+That's a breif about me, and thanks everyone
+
